@@ -15,6 +15,7 @@ public class ProyectoFuturo {
      * @param args the command line arguments
      */
     public static void main(String[] args) {
+        // Carolina Gutiérrez Camargo
         System.out.println("Estudiante: "+args[0]);
         System.out.println(veredicto(args[1], args[2]));
     }
